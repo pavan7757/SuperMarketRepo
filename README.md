@@ -1,2 +1,5 @@
 # SuperMarketRepo
-This is our Summer Project Repo 
+This is our E-commerce platform Zarvoc
+
+<!-- Initialize vite -->
+npm i vite 
